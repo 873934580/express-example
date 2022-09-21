@@ -1,0 +1,45 @@
+{
+    "warehouse_code": "08861",
+    "service_code": "usps",
+    "custom_sn": "sn0000001",
+    "sn": "SN071502410000000111",
+    "send_from": {
+        "country": "US",
+        "county": "CA",
+        "province": null,
+        "city": "EL Monte",
+        "contact_name": "test one",
+        "company_name": "公司名称",
+        "zipcode": "91731",
+        "address": "10922 Klingerman St, STE 1",
+        "address1": null,
+        "email": "test@qq.com",
+        "phone": "1333333333",
+        "address_type": 0
+    },
+    "send_to": {
+        "country": "US",
+        "county": "CA",
+        "province": null,
+        "city": "Inglewood",
+        "contact_name": "tests",
+        "company_name": null,
+        "zipcode": "90303",
+        "address": "3780 W Century Blvd",
+        "address1": null,
+        "email": "123@qq.com",
+        "phone": "1333333333",
+        "address_type": 0
+    },
+    "packages": [
+        {
+            "width": 5,
+            "height": 5,
+            "length": 5,
+            "weight": 5,
+            "declared_value": ""
+        }
+    ],
+    "unit_of_weight": "kg",
+    "unit_of_length": "cm"
+}
